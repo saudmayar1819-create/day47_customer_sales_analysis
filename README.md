@@ -72,6 +72,7 @@ The dataset contains sales records with the following fields:
 3. Tablet is the lowest-performing product, indicating weaker demand.
 4. Customers purchase multiple products, showing effective cross-selling.
 5. Revenue is highly dependent on a single customer and product, posing potential business risk.
+6. High-value customers should be targeted with loyalty programs to maximize long-term revenue.
 
 ---
 
@@ -85,6 +86,32 @@ day47_customer_sales_analysis/
 ├── insights.txt
 ├── README.md
 ```
+---
+
+## 🎯 Problem Statement
+
+The goal of this project is to analyze customer sales data to understand purchasing behavior, identify top-performing products, and generate actionable business insights.
+
+---
+
+## 🧩 Skills Demonstrated
+
+- Data Cleaning  
+- Data Analysis  
+- Data Visualization  
+- Business Insight Generation  
+- Python (pandas, matplotlib)
+
+---
+
+## ▶️ How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the script:
+   python analysis.py
+
 
 ---
 
